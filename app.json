@@ -1,0 +1,13 @@
+{
+  "name": "refactored-potato",
+  "env": {
+    "url": {
+      "description": "URL"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
